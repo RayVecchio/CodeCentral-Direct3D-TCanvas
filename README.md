@@ -8,4 +8,3 @@ Using the supplied control canvas one use Direct3D to get comparable performance
 This is beerware...
 
 Roy Nelson aka Ray Vecchio
-##R;
